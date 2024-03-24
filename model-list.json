@@ -4,7 +4,12 @@
     "sd_xl_refiner_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/blob/main/sd_xl_refiner_1.0.safetensors",
     "v1-5-pruned.ckpt2": "https://huggingface.co/runwayml/stable-diffusion-v1-5/blob/main/v1-5-pruned.ckpt"
   },
-  "loras": {},
+  "loras": {
+    "JuggerCineXL2.safetensors": "https://civitai.com/api/download/models/131991?type=Model&format=SafeTensor"
+    "Professional_Portrait.safetensors": "https://civitai.com/api/download/models/209517"
+    "add-detail-xl.safetensors": "https://civitai.com/api/download/models/135867?type=Model&format=SafeTensor"
+    "polyhedron_all_sdxl-000004.safetensors": "https://civitai.com/api/download/models/148926?type=Model&format=SafeTensor"
+  },
   "upscalers": {},
   "other_models": {}
 }
